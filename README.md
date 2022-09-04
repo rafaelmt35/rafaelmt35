@@ -1,7 +1,7 @@
 ### Hello I'm Rafael Matthew Tanumihardja!👋
 
 
-I am from Indonesia 🇮🇩, very interested in Android Mobile development 📱💻. 
+I am from Indonesia 🇮🇩, very interested in Android Mobile development 📱. 
 </br>
 
 - 📚 I’m currently learning Flutter/Dart

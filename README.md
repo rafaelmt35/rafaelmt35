@@ -10,7 +10,7 @@ I am from Indonesia 🇮🇩, very interested in Android Mobile development 📱
 
 - 📚 I’m currently learning Flutter/Dart
 - 📧 You can reach me via email - rafaelmatthew35@gmail.com
-- :computer: Currently Part-time worker at <a href="https://kamarpelajar.id/">Kamar Pelajar</a>
+- :computer: Currently Part-time worker as Flutter Developer at <a href="https://kamarpelajar.id/">Kamar Pelajar</a>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">

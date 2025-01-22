@@ -9,7 +9,7 @@ I am from Indonesia 🇮🇩, very interested in Android Mobile development 📱
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelmt35" alt="rafaelmt35" /></a> </p>
 
 - 📧 You can reach me via email - rafaelmatthew35@gmail.com
-- :computer: Currently Part-Time worker as Flutter Developer at <a href="https://kamarpelajar.id/">Kamar Pelajar</a>
+- :computer: Freelancer as Flutter Developer
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
